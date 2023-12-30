@@ -3,3 +3,11 @@
 /Main$Edge.class
 /CreatingGraph.class
 /CreatingGraph$Edge.class
+/ConnectedComponents.class
+/ConnectedComponents$Edge.class
+/ConnectedIslands.class
+/ConnectedIslands$Edge.class
+/PerfectFriends.class
+/PerfectFriends$Edge.class
+/HamiltonianPathAndStyle.class
+/HamiltonianPathAndStyle$Edge.class

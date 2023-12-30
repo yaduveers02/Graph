@@ -74,7 +74,6 @@ public class Main {
 			System.out.println(psf);
 			return;
 		}
-		
 		visited[src] = true;
 		
 		for(Edge edge: graph[src]) {
@@ -82,7 +81,6 @@ public class Main {
 				printAllPath(graph, edge.nbr, dest, visited, psf+edge.nbr);
 			}
 		}
-		
 		visited[src] = false;
 	}
 }
